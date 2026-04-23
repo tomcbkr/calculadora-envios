@@ -1,0 +1,27 @@
+{
+  "name": "Calc+ - Metabolic & Recipe Calculator",
+  "short_name": "Calc+",
+  "description": "Free metabolic calculator and recipe calorie calculator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/calcicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/calcicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["health", "fitness", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}
